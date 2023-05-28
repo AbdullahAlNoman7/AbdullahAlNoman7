@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/AbdullahAlNoman7)
 ### Hi there 👋, Abdullah Al Noman
 #### I am passionate about SQA Engineer
-![I am passionate about SQA Engineer](https://github.com/AbdullahAlNoman7/AbdullahAlNoman7/blob/main/Untitled.png)
+![I am passionate about SQA Engineer](https://github.com/AbdullahAlNoman7/AbdullahAlNoman7/blob/main/Software-Testing.jpg))
 
 I am eager to contribute to the growth and success of the organization while honing my expertise as an SQA
 Engineer.
